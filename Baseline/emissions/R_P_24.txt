@@ -1,0 +1,10 @@
+📄 Emissions Report – 2025-04-28 18:34:46
+====================================
+🌱 Total Emissions:     0.000001 kg CO2eq
+
+🕒 Duration:            0.01 hours
+⚡ Energy Consumed:     0.0000 kWh
+🧠 CPU Power:           4.03 W
+
+🌍 Machine:             MacBook Air (CPU Only)
+====================================
